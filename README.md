@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Joyal Jais
 
 <!--
 **joyaljais/joyaljais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 I hold a Bachelor's degree in Computer Applications, and I'm passionate about web development and machie learning. 
+💡 Currently, I'm focused on expanding my expertise in oth the areas. Always eager to learn, grow, and contribute to exciting projects!
+
+📇 Check out my virtual card https://joyaljais.carrd.co/
